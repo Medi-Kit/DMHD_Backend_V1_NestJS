@@ -1,6 +1,6 @@
-# Medi-Kit_Backend_V1_NestJS
+# DMHD_Backend_V1_NestJS
 
-Medikit User Backend
+DMHD User Backend
 
 ## Tech Stack
 ---
